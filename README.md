@@ -1,3 +1,9 @@
-# implementecao automatos
+# implementeção automatos
 
-codigos desenvolvidos na disciplina de Teoria da Computação
+implementação de automatos desenvolvidos na disciplina de Teoria da Computação.
+
+### Automato Finito
+
+### Automato Pilha
+
+### Maquina de Turing
